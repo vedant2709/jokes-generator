@@ -1,0 +1,23 @@
+/* Button.css */
+
+.button {
+	margin-top: 30px;
+	display: inline-block;
+	padding: 10px 20px;
+	background-color: #70a03a;
+	color: #ffffff;
+	border: none;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius: 8px;
+	transition: background-color .5s;
+}
+
+.button:hover {
+	background-color: #c1f590;
+	color: black;
+}
+
+.button:active {
+	background-color: #297910;
+}
